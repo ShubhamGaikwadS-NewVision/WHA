@@ -1,0 +1,23 @@
+<Root ref="Availity18.07" type="RC">
+<Folder ref="Login">
+<Scenario ref="Connection to DB">
+<TestCase exeType="Executable" ref="AVMDM _Connection"/>
+<TestCase exeType="Executable" ref="MDM_Connection"/>
+<TestCase exeType="Executable" ref="PDA_Connection"/>
+</Scenario>
+<Scenario ref="DataBase Testing">
+<TestCase exeType="Executable" ref="Login"/>
+<TestCase exeType="Executable" ref="LogOut"/>
+</Scenario>
+<Scenario ref="QG1">
+<TestCase exeType="Executable" ref="Navigate to saved queries"/>
+<TestCase exeType="Executable" ref="Processing Result"/>
+</Scenario>
+</Folder>
+<Folder ref="AthenaFlow">
+<Scenario ref="flow">
+<TestCase exeType="Executable" ref="Navigate to saved queries"/>
+<TestCase exeType="Executable" ref="Processing Result"/>
+</Scenario>
+</Folder>
+</Root>

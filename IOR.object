@@ -1,0 +1,102 @@
+<Root type="OR" ref="Availity18.07">
+  <Page ref="selectdb" Url="selectdb.png">
+    <ObjectGroup ref="test">
+      <Object ref="test">
+        <Property value="413,380" ref="Coordinates" pref="1"/>
+        <Property value="2" ref="Index" pref="2"/>
+        <Property value="0,0" ref="Offset" pref="3"/>
+        <Property value="0.7" ref="Precision" pref="4"/>
+        <Property value="0,0,1920,1080" ref="ROI" pref="5"/>
+        <Property value="" ref="Reference" pref="6"/>
+        <Property value="wha_db" ref="Text" pref="7"/>
+        <Property value="" ref="Url" pref="8"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="clickOnwha_db">
+      <Object ref="clickOnwha_db">
+        <Property value="" ref="Coordinates" pref="1"/>
+        <Property value="" ref="Index" pref="2"/>
+        <Property value="0,0" ref="Offset" pref="3"/>
+        <Property value="0.7f" ref="Precision" pref="4"/>
+        <Property value="0,0,1920,1080" ref="ROI" pref="5"/>
+        <Property value="" ref="Reference" pref="6"/>
+        <Property value="" ref="Text" pref="7"/>
+        <Property value="" ref="Url" pref="8"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="IObject0">
+      <Object ref="IObject0">
+        <Property value="" ref="Coordinates" pref="1"/>
+        <Property value="" ref="Index" pref="2"/>
+        <Property value="0,0" ref="Offset" pref="3"/>
+        <Property value="0.7f" ref="Precision" pref="4"/>
+        <Property value="0,0,1920,1080" ref="ROI" pref="5"/>
+        <Property value="" ref="Reference" pref="6"/>
+        <Property value="" ref="Text" pref="7"/>
+        <Property value="" ref="Url" pref="8"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page ref="New" Url="New.png">
+    <ObjectGroup ref="etst">
+      <Object ref="y">
+        <Property value="97,371,316,31" ref="Coordinates" pref="1"/>
+        <Property value="" ref="Index" pref="2"/>
+        <Property value="0,0" ref="Offset" pref="3"/>
+        <Property value="0.7f" ref="Precision" pref="4"/>
+        <Property value="0,0,1920,1080" ref="ROI" pref="5"/>
+        <Property value="y_Ref.png" ref="Reference" pref="6"/>
+        <Property value="" ref="Text" pref="7"/>
+        <Property value="y.png" ref="Url" pref="8"/>
+      </Object>
+      <Object ref="etst">
+        <Property value="" ref="Coordinates" pref="1"/>
+        <Property value="0" ref="Index" pref="2"/>
+        <Property value="" ref="Offset" pref="3"/>
+        <Property value="0.21" ref="Precision" pref="4"/>
+        <Property value="88,126,451,51" ref="ROI" pref="5"/>
+        <Property value="etst.png" ref="Reference" pref="6"/>
+        <Property value="Recent queries" ref="Text" pref="7"/>
+        <Property value="https://us-east-2.console.aws.amazon.com/athena/home?region=us-east-2#/query-editor" ref="Url" pref="8"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="test">
+      <Object ref="test">
+        <Property value="" ref="Coordinates" pref="1"/>
+        <Property value="" ref="Index" pref="2"/>
+        <Property value="0,0" ref="Offset" pref="3"/>
+        <Property value="0.7f" ref="Precision" pref="4"/>
+        <Property value="0,0,1920,1080" ref="ROI" pref="5"/>
+        <Property value="etst.png" ref="Reference" pref="6"/>
+        <Property value="Recent queries" ref="Text" pref="7"/>
+        <Property value="https://us-east-2.console.aws.amazon.com/athena/home?region=us-east-2#/query-editor" ref="Url" pref="8"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="ClickOnWHA_DB">
+      <Object ref="ClickOnWHA_DB">
+        <Property value="" ref="Coordinates" pref="1"/>
+        <Property value="" ref="Index" pref="2"/>
+        <Property value="0,0" ref="Offset" pref="3"/>
+        <Property value="0.7f" ref="Precision" pref="4"/>
+        <Property value="0,0,1920,1080" ref="ROI" pref="5"/>
+        <Property value="" ref="Reference" pref="6"/>
+        <Property value="" ref="Text" pref="7"/>
+        <Property value="" ref="Url" pref="8"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page ref="img" Url="img.png">
+    <ObjectGroup ref="clickdrop">
+      <Object ref="clickdrop">
+        <Property value="2,0,318,36" ref="Coordinates" pref="1"/>
+        <Property value="" ref="Index" pref="2"/>
+        <Property value="0,0" ref="Offset" pref="3"/>
+        <Property value="0.7f" ref="Precision" pref="4"/>
+        <Property value="0,0,1920,1080" ref="ROI" pref="5"/>
+        <Property value="clickdrop_Ref.png" ref="Reference" pref="6"/>
+        <Property value="" ref="Text" pref="7"/>
+        <Property value="clickdrop.png" ref="Url" pref="8"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+</Root>
